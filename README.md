@@ -25,14 +25,13 @@ The preferred way to configure the miner is the [JSON config file](https://xmrig
 * **[Workers](http://workers.xmrig.info)** helps manage your miners via HTTP API.
 
 ## Donations
-* Default donation 1% (1 minute in 100 minutes) can be increased via option `donate-level` or disabled in source code.
-* XMR: `48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD`
+* Default donation FAUCETPAY
+* username: shadow8966
 
 ## Developers
 * **[xmrig](https://github.com/xmrig)**
 * **[sech1](https://github.com/SChernykh)**
+* **[owner](https://github.com/SHADOWGAMER8966)**
 
 ## Contacts
-* support@xmrig.com
-* [reddit](https://www.reddit.com/user/XMRig/)
-* [twitter](https://twitter.com/xmrig_dev)
+* business.shadow181@gmail.com
